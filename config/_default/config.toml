@@ -1,4 +1,4 @@
 baseURL = "https://notion.zdl.im/"
 languageCode = "en-us"
 title = "Sky's Blog"
-theme = "ananke"
+theme = "paper"
